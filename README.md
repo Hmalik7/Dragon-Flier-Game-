@@ -110,5 +110,4 @@ This project demonstrates core game development concepts and can be extended wit
 - The project showcases inheritance, polymorphism, and encapsulation principles
 
 ## 👥 Contributors
-- Original game concept and implementation by the DragonFlier development team
-- MessageBox and custom ArrayList enhancements added by new team members
+Harsh Malik
